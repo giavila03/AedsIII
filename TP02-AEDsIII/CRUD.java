@@ -295,8 +295,4 @@ public class CRUD {
         musicaSelec.setGenres(gnrTmp); // Pega o ArrayList<String> populado com todos os gêneros e seta os gêneros
         return musicaSelec;
     }
-
-
-
-
 }
